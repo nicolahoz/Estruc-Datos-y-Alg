@@ -107,7 +107,3 @@ if __name__ == '__main__':
 	print(l)
 	eliminarRepetidosOptimizado(l)
 	print(l)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
